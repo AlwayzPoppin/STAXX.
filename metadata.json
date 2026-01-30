@@ -1,0 +1,7 @@
+{
+  "name": "STAXX.",
+  "description": "The gold standard of tax intelligence for the modern professional. Stack profit. Not paperwork.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
